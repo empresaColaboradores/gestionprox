@@ -74,35 +74,45 @@ $token = $cp->captchat('loging');
             </div>
         </div>
     </div>
-    
+
     <div class="container">
-           
-                <div class="jumbotron">
-                <p>GESTIONPROX</p>
-                <div class="continer">
-                    <form>
-                        <div class="form-group form-inline">
+
+        <div class="jumbotron">
+            <p>GESTIONPROX</p>
+            <div class="continer">
+                <form>
+                    <div class="form-group form-inline">
                         <label>nombre</label>
-                        
+
                         <input type="text" class="form-control form-inline">
                         <label>apellido</label>
                         <input type="text" class="form-control form-inline">
-                        </div>
-                        
-                         <div class="form-group form-inline">
+                    </div>
+
+                    <div class="form-group form-inline">
                         <label>Madre</label>
-                        
+
                         <input type="text" class="form-control form-inline">
                         <label>Padre</label>
                         <input type="text" class="form-control form-inline">
-                        </div>
-                        <button class="btn"> Enviar</button>
-                    </form>
+                    </div>
                     
-                </div>
+                    <div class="form-group form-inline">
+                        <label>Telefeno</label>
+
+                        <input type="tel" class="form-control form-inline">
+                        <label>direccion</label>
+                        <input type="text" class="form-control form-inline">
+                    </div>
+
+
+                    <button class="btn"> Enviar</button>
+                </form>
 
             </div>
+
         </div>
+    </div>
 
 
 
@@ -270,7 +280,7 @@ $token = $cp->captchat('loging');
 
         </div> <!-- contactenos -->
 
-        
+
 
 
 
