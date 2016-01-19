@@ -79,6 +79,27 @@ $token = $cp->captchat('loging');
            
                 <div class="jumbotron">
                 <p>GESTIONPROX</p>
+                <div class="continer">
+                    <form>
+                        <div class="form-group form-inline">
+                        <label>nombre</label>
+                        
+                        <input type="text" class="form-control form-inline">
+                        <label>apellido</label>
+                        <input type="text" class="form-control form-inline">
+                        </div>
+                        
+                         <div class="form-group form-inline">
+                        <label>Madre</label>
+                        
+                        <input type="text" class="form-control form-inline">
+                        <label>Padre</label>
+                        <input type="text" class="form-control form-inline">
+                        </div>
+                        <button class="btn"> Enviar</button>
+                    </form>
+                    
+                </div>
 
             </div>
         </div>
