@@ -104,6 +104,12 @@ $token = $cp->captchat('loging');
                         <label>direccion</label>
                         <input type="text" class="form-control form-inline">
                     </div>
+                    
+                    <div class="form-group form-inline">
+                        <label>CELULAR</label>
+                        <input type="tel" class="form-control form-inline">
+                        
+                    </div>
 
 
                     <button class="btn"> Enviar</button>
