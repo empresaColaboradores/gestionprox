@@ -1,0 +1,17 @@
+# esta directica nos permite  manejar las peticiones incorrectas
+# reenviandolas al archivo principal index.php
+ErrorDocument 404 http://gestionprox.com/
+ErrorDocument 403 http://gestionprox.com/
+
+
+# esta directiva evita la navegacion de los directorios
+# es decir  que en las carpetas donde no hay un archivo index
+# no muestre el arbol de directorio sino que rediriga la peticion
+# al archivo index.php  de la ruta raiz
+Options -Indexes
+
+
+
+
+
+
