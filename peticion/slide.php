@@ -164,6 +164,7 @@ $token = $cp->captchat('loging');
                      
                      <h2>Adaptabilidad</h2>
                     <p class="text-justify">Gracias a su  entorno web <b> Gestionprox</b> puede ser utilizado en distintos dispositivos m&oacute;viles <br>
+                        <a class="btn btn-success"> ver </a>
                        
                     
                     </p>
