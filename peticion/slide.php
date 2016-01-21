@@ -137,7 +137,7 @@ $token = $cp->captchat('loging');
                 <h2>Visi&oacute;n</h2>
                 <p class="text-justify">Para el 2018 ser la empresa l&iacute;der  a nivel  regional en el desarrollo de soluciones que ayuden a las pymes
                     en su crecimiento y fortalecimiento empresarial. </p>
-                 <!-- <p><a class="btn btn-default" href="#" role="button">Ver m&aacute;s &raquo;</a></p>-->
+                  <p><a class="btn btn-default" href="#" role="button">Ver m&aacute;s &raquo;</a></p>
             </div>
             <div class="col-md-4">
                 <h2>Objetivos</h2>
