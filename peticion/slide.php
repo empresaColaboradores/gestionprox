@@ -131,7 +131,7 @@ $token = $cp->captchat('loging');
                 <p class="text-justify">Generar  soluciones precisas y efectivas para el sector industrial
                     a trav&eacute;s de  herramientas inform&aacute;ticas desarrolladas a la medida que generen una ventaja competitiva y una
                     recuperaci&oacute;n de la inversi&oacute;n en poco tiempo. </p>
-                <!-- <p><a class="btn btn-default" href="#" role="button">Ver m&aacute;s &raquo;</a></p>-->
+                 <p><a class="btn btn-default" href="#" role="button">Ver m&aacute;s &raquo;</a></p>
             </div>
             <div class="col-md-4">
                 <h2>Visi&oacute;n</h2>
