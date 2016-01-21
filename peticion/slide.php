@@ -211,6 +211,7 @@ $token = $cp->captchat('loging');
                 <div class="col-md-4">
                     <h2>Compatibildad</h2>
                     <p class="text-justify"><b>Gestionprox</b> est&aacute; desarrollado en lenguaje web lo que garantiza su  compatibilidad  con otros sistemas operativos distintos de Windows. </p>
+                    <a class="btn btn-danger"> </a>
 
                 </div>
 
