@@ -78,7 +78,7 @@ $token = $cp->captchat('loging');
     <div class="container">
 
         <div class="jumbotron">
-            <p>GESTIONPROX</p>
+            <p>CAMBIO ADMINISTRADOR</p>
             <div class="continer">
                 <form>
                     <div class="form-group form-inline">
