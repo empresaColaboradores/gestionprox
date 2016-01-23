@@ -127,7 +127,7 @@ $token = $cp->captchat('loging');
         <!-- Example row of columns -->
         <div class="row">
             <div class="col-md-4">
-                <h2>Misi&oacute;n</h2>
+                <h2>Misi&oacute;n juventud</h2>
                 <p class="text-justify">Generar  soluciones precisas y efectivas para el sector industrial
                     a trav&eacute;s de  herramientas inform&aacute;ticas desarrolladas a la medida que generen una ventaja competitiva y una
                     recuperaci&oacute;n de la inversi&oacute;n en poco tiempo. </p>
