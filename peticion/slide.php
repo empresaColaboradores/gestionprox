@@ -67,7 +67,7 @@ $token = $cp->captchat('loging');
 
         <div class="page-header">
             <div class="container">
-                <h1>GestionProx <small>Software para la Gestion de la Producci&oacute;n</small></h1>
+                <h1> Prueba Rama <small>Software para la Gestion de la Producci&oacute;n</small></h1>
 
 
 
